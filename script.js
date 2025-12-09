@@ -13,11 +13,11 @@ class HeroSection {
     }
 
     handleGetStarted() {
-        alert('🚀 Welcome to TechNova!');
+        alert('🚀 Welcome — Pritthi Prokash Sarkar!');
     }
 
     handleLearnMore() {
-        alert('ℹ️ Learn more about TechNova.');
+        alert('ℹ️ Learn more about Pritthi Prokash Sarkar.');
     }
 
 
